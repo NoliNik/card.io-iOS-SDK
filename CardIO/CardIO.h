@@ -1,6 +1,6 @@
 //
 //  CardIO.h
-//  Version 5.4.1
+//  Version 5.4.1-9-g4dabb2a
 //
 //  See the file "LICENSE.md" for the full license governing this code.
 //
@@ -13,4 +13,6 @@
 #import "CardIOPaymentViewController.h"
 #import "CardIOPaymentViewControllerDelegate.h"
 #import "CardIOUtilities.h"
+#import "CardIOCreditCardNumberFormatter.h"
+#import "CardIOCreditCardNumber.h"
 
